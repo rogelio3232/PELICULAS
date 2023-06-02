@@ -1,0 +1,275 @@
+#EXTM3U
+#EXTINF:-1,Cinecanal
+http://45.5.151.150:8000/play/a009/index.m3u8
+#EXTINF:-1,HBO
+http://45.5.151.150:8000/play/a00e/index.m3u8
+#EXTINF:-1,HBO 2
+http://45.5.151.150:8000/play/a00g/index.m3u8
+#EXTINF:-1,HBO Family
+http://45.5.151.150:8000/play/a00h/index.m3u8
+#EXTINF:-1,HBO Mundi
+http://45.5.151.150:8000/play/a01t/index.m3u8
+#EXTINF:-1,HBO POP
+http://45.5.151.150:8000/play/a01s/index.m3u8
+#EXTINF:-1,HBO Plus
+http://45.5.151.150:8000/play/a00f/index.m3u8
+#EXTINF:-1,HBO Signature
+http://45.5.151.150:8000/play/a01v/index.m3u8
+#EXTINF:-1,HBO Xtreme
+http://45.5.151.150:8000/play/a01u/index.m3u8
+#EXTINF:-1,Paramount
+http://45.5.151.150:8000/play/a01q/index.m3u8
+#EXTINF:-1,Space
+http://45.5.151.150:8000/play/a01h/index.m3u8
+#EXTINF:-1,Star Channel HD
+http://45.5.151.150:8000/play/a00w/index.m3u8
+#EXTINF:-1,Studio Universal
+http://45.5.151.150:8000/play/a01l/index.m3u8
+#EXTINF:-1,SyFy
+http://45.5.151.150:8000/play/a01m/index.m3u8
+#EXTINF:-1,TBS
+http://45.5.151.150:8000/play/a00b/index.m3u8
+#EXTINF:-1,TCM
+http://45.5.151.150:8000/play/a01j/index.m3u8
+#EXTINF:-1,TNT HD
+http://45.5.151.150:8000/play/a010/index.m3u8
+#EXTINF:-1,TNT Series
+http://45.5.151.150:8000/play/a00c/index.m3u8
+#EXTINF:-1,TNT Series HD
+http://45.5.151.150:8000/play/a011/index.m3u8
+#EXTINF:-1,HBO
+http://45.4.1.156:7778/play/a03b/index.m3u8
+#EXTINF:-1,HBO 2
+http://45.4.1.156:7778/play/a018/index.m3u8
+#EXTINF:-1,HBO Family
+http://45.4.1.156:7778/play/a01b/index.m3u8
+#EXTINF:-1,HBO Plus
+http://45.4.1.156:7778/play/a019/index.m3u8
+#EXTINF:-1,HBO XTREME
+http://45.4.1.156:7778/play/a01a/index.m3u8
+#EXTINF:-1,HBO
+http://45.4.1.153:7778/play/a03b/index.m3u8
+#EXTINF:-1,HBO 2
+http://45.4.1.153:7778/play/a018/index.m3u8
+#EXTINF:-1,HBO Family
+http://45.4.1.153:7778/play/a01b/index.m3u8
+#EXTINF:-1,HBO Plus
+http://45.4.1.153:7778/play/a019/index.m3u8
+#EXTINF:-1,HBO XTREME
+http://45.4.1.153:7778/play/a01a/index.m3u8
+#EXTINF:-1,HBO
+http://45.4.1.149:7778/play/a03b/index.m3u8
+#EXTINF:-1,HBO 2
+http://45.4.1.149:7778/play/a018/index.m3u8
+#EXTINF:-1,HBO Family
+http://45.4.1.149:7778/play/a01b/index.m3u8
+#EXTINF:-1,HBO Plus
+http://45.4.1.149:7778/play/a019/index.m3u8
+#EXTINF:-1,HBO XTREME
+http://45.4.1.149:7778/play/a01a/index.m3u8
+#EXTINF:-1,HBO
+http://45.238.54.253:8000/play/a02z/index.m3u8
+#EXTINF:-1,HBO Family
+http://45.238.54.253:8000/play/a013/index.m3u8
+#EXTINF:-1,HBO Plus
+http://45.238.54.253:8000/play/a011/index.m3u8
+#EXTINF:-1,HBO XTREME SD
+http://45.238.54.253:8000/play/a012/index.m3u8
+#EXTINF:-1,Sony
+http://45.191.47.50:1111/play/a0bk/index.m3u8
+#EXTINF:-1,Space
+http://45.191.47.50:1111/play/a0bm/index.m3u8
+#EXTINF:-1,Studio Universal
+http://45.191.47.50:1111/play/a0ah/index.m3u8
+#EXTINF:-1,SyFy
+http://45.191.47.50:1111/play/a0a8/index.m3u8
+#EXTINF:-1,TBS
+http://45.191.47.50:1111/play/a0b2/index.m3u8
+#EXTINF:-1,TCM
+http://45.191.47.50:1111/play/a0a1/index.m3u8
+#EXTINF:-1,TLC
+http://45.191.47.50:1111/play/a0at/index.m3u8
+#EXTINF:-1,TNT
+http://45.191.47.50:1111/play/a0a3/index.m3u8
+#EXTINF:-1,Golden HD
+http://200.59.184.111:8000/play/a07k
+#EXTINF:-1,HBO
+http://200.59.184.111:8000/play/a043
+#EXTINF:-1,HBO 2
+http://200.59.184.111:8000/play/a01z
+#EXTINF:-1,HBO 2 HD
+http://200.59.184.111:8000/play/a07d
+#EXTINF:-1,HBO Family
+http://200.59.184.111:8000/play/a022
+#EXTINF:-1,HBO Family HD
+http://200.59.184.111:8000/play/a08b
+#EXTINF:-1,HBO HD
+http://200.59.184.111:8000/play/a076
+#EXTINF:-1,HBO Plus
+http://200.59.184.111:8000/play/a020
+#EXTINF:-1,HBO XTREME HD
+http://200.59.184.111:8000/play/a08c
+#EXTINF:-1,HBO XTREME SD
+http://200.59.184.111:8000/play/a021
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://200.59.184.111:8000/play/a06c
+#EXTINF:-1,Universal
+http://200.59.184.111:8000/play/a019
+#EXTINF:-1,Universal Cinema SD
+http://200.59.184.111:8000/play/a028
+#EXTINF:-1,Universal Comedy SD
+http://200.59.184.111:8000/play/a029
+#EXTINF:-1,Universal Premiere SD
+http://200.59.184.111:8000/play/a027
+#EXTINF:-1,Golden HD
+http://200.59.184.109:8000/play/a07k
+#EXTINF:-1,HBO
+http://200.59.184.109:8000/play/a043
+#EXTINF:-1,HBO 2
+http://200.59.184.109:8000/play/a01z
+#EXTINF:-1,HBO 2 HD
+http://200.59.184.109:8000/play/a07d
+#EXTINF:-1,HBO Family
+http://200.59.184.109:8000/play/a022
+#EXTINF:-1,HBO Family HD
+http://200.59.184.109:8000/play/a08b
+#EXTINF:-1,HBO HD
+http://200.59.184.109:8000/play/a076
+#EXTINF:-1,HBO Plus
+http://200.59.184.109:8000/play/a020
+#EXTINF:-1,HBO XTREME HD
+http://200.59.184.109:8000/play/a08c
+#EXTINF:-1,HBO XTREME SD
+http://200.59.184.109:8000/play/a021
+#EXTINF:-1,CINECANAL HD
+http://190.92.7.19:8000/play/a02q/index.m3u8
+#EXTINF:-1,Golden
+http://190.92.7.19:8000/play/a021/index.m3u8
+#EXTINF:-1,Golden Premiere 2 HD
+http://190.92.7.19:8000/play/a00h/index.m3u8
+#EXTINF:-1,Golden Premiere HD
+http://190.92.7.19:8000/play/a00g/index.m3u8
+#EXTINF:-1,H2
+http://190.92.7.19:8000/play/a01q/index.m3u8
+#EXTINF:-1,HBO Family HD
+http://190.92.7.19:8000/play/a00v/index.m3u8
+#EXTINF:-1,HBO HD
+http://190.92.7.19:8000/play/a00s/index.m3u8
+#EXTINF:-1,HBO Plus HD
+http://190.92.7.19:8000/play/a00u/index.m3u8
+#EXTINF:-1,HBO XTREME
+http://190.92.7.19:8000/play/a00w/index.m3u8
+#EXTINF:-1,HBO2 HD
+http://190.92.7.19:8000/play/a00t/index.m3u8
+#EXTINF:-1,SONY
+http://190.92.7.19:8000/play/a02b/index.m3u8
+#EXTINF:-1,SONY HD
+http://190.92.7.19:8000/play/a02p/index.m3u8
+#EXTINF:-1,SPACE
+http://190.92.7.19:8000/play/a017/index.m3u8
+#EXTINF:-1,SPACE HD
+http://190.92.7.19:8000/play/a03h/index.m3u8
+#EXTINF:-1,STAR CHANNEL
+http://190.92.7.19:8000/play/a02x/index.m3u8
+#EXTINF:-1,STAR CHANNEL HD
+http://190.92.7.19:8000/play/a02n/index.m3u8
+#EXTINF:-1,A&E HD
+http://190.61.102.67:6060/play/a02g
+#EXTINF:-1,AMC
+http://190.61.102.67:6060/play/a051
+#EXTINF:-1,AMC HD
+http://190.61.102.67:6060/play/a02h
+#EXTINF:-1,AXN
+http://190.61.102.67:6060/play/a01y
+#EXTINF:-1,AXN HD
+http://190.61.102.67:6060/play/a04m
+#EXTINF:-1,CineCanal
+http://190.61.102.67:6060/play/a04c
+#EXTINF:-1,CineMax
+http://190.61.102.67:6060/play/a04a
+#EXTINF:-1,Claro Cinema
+http://190.61.102.67:6060/play/a039
+#EXTINF:-1,SONY
+http://190.61.102.67:6060/play/a02x
+#EXTINF:-1,SONY HD
+http://190.61.102.67:6060/play/a03c
+#EXTINF:-1,SPACE
+http://190.61.102.67:6060/play/a01q
+#EXTINF:-1,SPACE HD
+http://190.61.102.67:6060/play/a04n
+#EXTINF:-1,STAR CHANNEL
+http://190.61.102.67:6060/play/a03y
+#EXTINF:-1,STAR CHANNEL HD
+http://190.61.102.67:6060/play/a03a
+#EXTINF:-1,Sony Movies HD
+http://190.61.102.67:6060/play/a02l
+#EXTINF:-1,Star TVE HD
+http://190.61.102.67:6060/play/a02o
+#EXTINF:-1,Studio Universal
+http://190.61.102.67:6060/play/a04b
+#EXTINF:-1,Studio Universal HD
+http://190.61.102.67:6060/play/a02b
+#EXTINF:-1,Sun Channel
+http://190.61.102.67:6060/play/a00v
+#EXTINF:-1,SyFy
+http://190.61.102.67:6060/play/a031
+#EXTINF:-1,TBN Enlace
+http://190.61.102.67:6060/play/a024
+#EXTINF:-1,TBS
+http://190.61.102.67:6060/play/a01s
+#EXTINF:-1,TCM
+http://190.61.102.67:6060/play/a014
+#EXTINF:-1,UNIVERSAL COMEDY
+http://190.61.102.67:6060/play/a017
+#EXTINF:-1,UNIVERSAL COMEDY HD
+http://190.61.102.67:6060/play/a03t
+#EXTINF:-1,UNIVERSAL CRIME
+http://190.61.102.67:6060/play/a016
+#EXTINF:-1,UNIVERSAL CRIME HD
+http://190.61.102.67:6060/play/a03s
+#EXTINF:-1,UNIVERSAL PREMIERE
+http://190.61.102.67:6060/play/a04i
+#EXTINF:-1,UNIVERSAL PREMIERE HD
+http://190.61.102.67:6060/play/a03p
+#EXTINF:-1,UNIVERSAL PREMIERE O
+http://190.61.102.67:6060/play/a04j
+#EXTINF:-1,UNIVERSAL PREMIERE O HD
+http://190.61.102.67:6060/play/a03q
+#EXTINF:-1,UNIVERSAL REALITY
+http://190.61.102.67:6060/play/a015
+#EXTINF:-1,UNIVERSAL REALITY HD
+http://190.61.102.67:6060/play/a03r
+#EXTINF:-1,Universal
+http://190.61.102.67:6060/play/a046
+#EXTINF:-1,WARNER HD
+http://190.61.102.67:6060/play/a03b
+#EXTINF:-1 tvg-id="CineCcanal",CineCanal
+http://190.232.188.138:8000/play/a094/index.m3u8
+#EXTINF:-1 tvg-id="CineMax",CineMax
+http://190.232.188.138:8000/play/a092/index.m3u8
+#EXTINF:-1 tvg-id="cinecanal",Cinecanal
+http://190.232.188.138:8000/play/a007/index.m3u8
+#EXTINF:-1,Cinecanal HD
+http://190.232.188.138:8000/play/a046/index.m3u8
+#EXTINF:-1 tvg-id="Cinemax",Cinemax
+http://190.232.188.138:8000/play/a01x/index.m3u8
+#EXTINF:-1,Cinemax HD
+http://190.232.188.138:8000/play/a03i/index.m3u8
+#EXTINF:-1 tvg-id="ClaroCinema",Claro Cinema
+http://190.232.188.138:8000/play/a024/index.m3u8
+#EXTINF:-1,Sony
+http://190.2.212.21:7000/play/a04v/index.m3u8
+#EXTINF:-1,Space
+http://190.2.212.21:7000/play/a049/index.m3u8
+#EXTINF:-1,Studio Universal
+http://190.2.212.21:7000/play/a04p/index.m3u8
+#EXTINF:-1,SyFy
+http://190.2.212.21:7000/play/a00q/index.m3u8
+#EXTINF:-1,TBS
+http://190.2.212.21:7000/play/a05p/index.m3u8
+#EXTINF:-1,TCM
+http://190.2.212.21:7000/play/a00g/index.m3u8
+#EXTINF:-1,TLC
+http://190.2.212.21:7000/play/a05f/index.m3u8
+#EXTINF:-1,TNT
+http://190.2.212.21:7000/play/a00i/index.m3u8
